@@ -50,10 +50,10 @@ flutter run
 ```
 
 ### 📸 Ekran Görüntüleri
-
 | Giriş Ekranı | Kategori Seçimi | Oyun Ekranı | Tebrikler |
 |:---:|:---:|:---:|:---:|
-| ![Giriş](assets/screenshots/login.png) | ![Kategori](assets/screenshots/kategori.png) | ![Oyun](assets/screenshots/oyun.png) | ![Tebrikler](assets/screenshots/tebrikler.png) |
+| ![Giriş](assets/screenshots/tebrikler.png) | ![Kategori](assets/screenshots/oyun.png) | ![Oyun](assets/screenshots/kategori.png) | ![Tebrikler](assets/screenshots/login.png) |
+
 ### 📝 Notlar
 
 Bu proje kişisel öğrenme amaçlı geliştirilmiştir. Geliştirme sürecinde Flutter ve Firebase'i öğrenirken adım adım inşa edilmiştir.

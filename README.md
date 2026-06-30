@@ -53,7 +53,7 @@ flutter run
 
 | Giriş Ekranı | Kategori Seçimi | Oyun Ekranı |
 |:---:|:---:|:---:|
-| *(buraya ekran görüntüsü ekleyin)* | *(buraya ekran görüntüsü ekleyin)* | *(buraya ekran görüntüsü ekleyin)* |
+| ![Giriş](assets/screenshots/login.png) | ![Kategori](assets/screenshots/kategori.png) | ![Oyun](assets/screenshots/oyun.png) |
 
 ### 📝 Notlar
 
@@ -112,7 +112,7 @@ flutter run
 
 | Login Screen | Category Selection | Game Screen |
 |:---:|:---:|:---:|
-| *(add screenshot here)* | *(add screenshot here)* | *(add screenshot here)* |
+| ![Giriş](assets/screenshots/login.png) | ![Kategori](assets/screenshots/kategori.png) | ![Oyun](assets/screenshots/oyun.png) |
 
 ### 📝 Notes
 

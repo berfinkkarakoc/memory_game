@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
  
 
 class ApiService {
-  // Pexels API anahtarını doğru isimle tanımladık
+  
   final String _apiKey =
       "qg9SK8l3uTACyTFMrRLenb6Otto1wmJdd83iWMlpuHHQN4PWv9wqrYxm";
 
@@ -17,7 +17,7 @@ class ApiService {
         url,
         headers: {
           'Authorization': _apiKey,
-        }, // Artık burası yukarıdaki anahtarı görebiliyor
+        }, 
       );
 
       if (res.statusCode == 200) {

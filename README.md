@@ -109,10 +109,9 @@ flutter run
 
 ### 📸 Screenshots
 
-| Login Screen | Category Selection | Game Screen |
-|:---:|:---:|:---:|
-| ![Giriş](assets/screenshots/login.png) | ![Kategori](assets/screenshots/kategori.png) | ![Oyun](assets/screenshots/oyun.png) |
-
+| Login Screen | Category Selection | Game Screen | Congratulations |
+|:---:|:---:|:---:|:---:|
+| ![Login](assets/screenshots/tebrikler.png) | ![Category](assets/screenshots/oyun.png) | ![Game](assets/screenshots/kategori.png) | ![Congratulations](assets/screenshots/login.png) |
 ### 📝 Notes
 
 This project was built for personal learning purposes, developed step by step while learning Flutter and Firebase.
